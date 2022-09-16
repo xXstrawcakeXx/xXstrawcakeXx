@@ -43,5 +43,6 @@ Went from being an Economics MA student to software engineer and I couldn't be h
 <!-- Activity Table -->
 [![Anna's statistics](https://github-readme-stats.vercel.app/api?username=xXStrawcakeXx&line_height=20&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXStrawcakeXx&layout=compact&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)
 
-
+<!--
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xXStrawcakeXx)](https://github.com/xXStrawcakeXx/github-readme-activity-graph)
+-->
