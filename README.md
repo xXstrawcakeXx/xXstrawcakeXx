@@ -2,7 +2,7 @@
    Hi there 👋. I'm Anna
 </h3>
 
-Went from being an Economics MA student to Software Engineering and I couldn't be happier :sunny:
+Went from being an Economics MA student to software Engineer and I couldn't be happier :sunny:
 
 
 ## 🔭 I’m currently working on
