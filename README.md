@@ -1,17 +1,13 @@
-### Hi there 👋
-
-<!--
-**xXstrawcakeXx/xXstrawcakeXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<h3 align="center">
+   Hi there 👋. I'm Anna
+</h3>
 
 
 ## 🔭 I’m currently working on
 
   - Getting the AWS Certified Developer certification
   - A "Hello World!" project written only in Java bytecode
-  - Brainstorm idea for a new Spring Boot application
+  - Brainstorming ideas for a new Spring Boot application
 
 
 ## 🌱 I’m currently learning
@@ -19,7 +15,7 @@ Here are some ideas to get you started:
   - The ins and outs of AWS' IAM User/Group services
   - How Java bytecode works
   
-## ⚡ Technologies/Languages Experiences
+## ⚡ Technologies/languages used
 
   
 | Categories        | Tech/Languages| 
