@@ -35,6 +35,8 @@ Went from being an Economics MA student to software engineer and I couldn't be h
 | **Others** | `C` `C++`|
  
  
-
+<!-- Activity Table -->
 [![Anna's statistics](https://github-readme-stats.vercel.app/api?username=xXStrawcakeXx&line_height=20&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXStrawcakeXx&layout=compact&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)
 
+<!-- Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="xXStrawcakeXx's Activity Graph" src="https://xXStrawcakeXx-activity-graph.herokuapp.com/graph/?username=xXStrawcakeXx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
