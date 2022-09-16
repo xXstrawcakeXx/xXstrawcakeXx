@@ -9,6 +9,7 @@ Went from being an Economics MA student to software engineer and I couldn't be h
  I like to `lift` and play `videogames` 🖥️
  
 <br>
+
 ## 🔭 I’m currently working on
 
   - Getting the AWS Certified Developer certification
