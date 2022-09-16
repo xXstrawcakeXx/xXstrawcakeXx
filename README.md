@@ -13,6 +13,7 @@ Went from being an Economics MA student to software engineer and I couldn't be h
   - Getting the AWS Certified Developer certification
   - A "Hello World!" project written only in Java bytecode
   - Brainstorming ideas for a new Spring Boot application
+  - Improving Project2
 
 
 ## 🌱 I’m currently learning
