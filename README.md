@@ -30,6 +30,7 @@ Went from being an Economics MA student to Software Engineering and I couldn't b
 | **Statistical Software** | `MATLAB (used it for Econometrics)` `Stata` `eViews` `SAS` |
 | **Others** | `C` `C++`|
  
+ 
 
-
+[![Anna's statistics](https://github-readme-stats.vercel.app/api?username=xXStrawcakeXx&line_height=20&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXStrawcakeXx&layout=compact&theme=noctis_minimus)](https://github.com/xXStrawcakeXx)
 
