@@ -20,13 +20,13 @@
   
 | Categories        | Tech/Languages| 
 | ------------- |:-------------:|
-| Backend      | `Java 1.8` `Maven` `Spring Boot` `Spring MVC` `Servlets` `Tomcat` |
-| Data Persistence | `PostgreSQL` `Spring` `Data` `Hibernate` `JDBC` |  
-| DevOps | `AWS Services: EC2, RDS, IAM, S3` `Docker` |
-| Supporting Tech | `Git (duh!)` `Spring Test` `JUnit` `Mockito` `MockMvc` |
-| Client-Side | `Angular` `JavaScript` `HTML` `CSS` `TypeScript` |
-| Statistical Software | `MATLAB (used it for Econometrics)` `Stata` `eViews` `SAS` |
-| Others | `C` `C++`|
+| **Backend**      | `Java 1.8` `Maven` `Spring Boot` `Spring MVC` `Servlets` `Tomcat` |
+| **Data Persistence** | `PostgreSQL` `Spring` `Data` `Hibernate` `JDBC` |  
+| **DevOps** | `AWS Services: EC2, RDS, IAM, S3` `Docker` |
+| **Supporting Tech** | `Git (duh!)` `Spring Test` `JUnit` `Mockito` `MockMvc` |
+| **Client-Side** | `Angular` `JavaScript` `HTML` `CSS` `TypeScript` |
+| **Statistical Software** | `MATLAB (used it for Econometrics)` `Stata` `eViews` `SAS` |
+| **Others** | `C` `C++`|
  
 
 
