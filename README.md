@@ -2,8 +2,7 @@
    Hi there 👋. I'm Anna
 </h3>
 
-Went from Economics to Software Engineering and I couldn't be happier 
-<div data-sound="story" class="">/play story</div>
+Went from being an Economics MA student to Software Engineering and I couldn't be happier :sunny:
 
 
 ## 🔭 I’m currently working on
