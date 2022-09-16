@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<br>
 
-Went from being an Economics MA student to software engineer and I couldn't be happier :sunny:
-
- I like to `lift` and play `videogames` 🖥️
- 
+Went from being an Economics MA student to software engineer and I couldn't be happier :sunny:. I like to `lift` and play `videogames` 🖥️
 <br>
 
 ## 🔭 I’m currently working on
