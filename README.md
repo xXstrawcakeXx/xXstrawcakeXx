@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
 
-  - getting the AWS Certified Developer certification
-  - a "Hello World!" project written only in Java bytecode
+  - Getting the AWS Certified Developer certification
+  - A "Hello World!" project written only in Java bytecode
   - Brainstorm idea for a new Spring Boot application
 
 
