@@ -2,6 +2,9 @@
    Hi there 👋. I'm Anna
 </h3>
 
+Went from Economics to Software Engineering and I couldn't be happier 
+<div data-sound="story" class="">/play story</div>
+
 
 ## 🔭 I’m currently working on
 
