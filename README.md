@@ -1,10 +1,14 @@
 <h3 align="center">
-   Hi there 👋. I'm Anna
+  Hi there, I'm Anna. Welcome to my hub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Went from being an Economics MA student to software Engineer and I couldn't be happier :sunny:
 
+Went from being an Economics MA student to software engineer and I couldn't be happier :sunny:
 
+ I like to `lift` and play `videogames` 🖥️
+ 
+<br>
 ## 🔭 I’m currently working on
 
   - Getting the AWS Certified Developer certification
