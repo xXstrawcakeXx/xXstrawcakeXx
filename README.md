@@ -10,15 +10,12 @@ Went from being an Economics MA student to software engineer and I couldn't be h
 
 ## 🔭 I’m currently working on
 
-  - Getting the AWS Certified Developer certification
-  - A "Hello World!" project written only in Java bytecode
   - Working on a social media fullstack app using Java/Spring and Angular
 
 
 ## 🌱 I’m currently learning
 
-  - The ins and outs of AWS' IAM User/Group services
-  - How Java bytecode works
+  Spring Security
   
 ## ⚡ Technologies/languages used
 
@@ -27,7 +24,7 @@ Went from being an Economics MA student to software engineer and I couldn't be h
 | ------------- |:-------------:|
 | **Backend**      | `Java 1.8` `Maven` `Spring Boot` `Spring MVC` `Servlets` `Tomcat` |
 | **Data Persistence** | `PostgreSQL` `Spring` `Data` `Hibernate` `JDBC` |  
-| **DevOps** | `AWS Services: EC2, RDS, IAM, S3` `Docker` |
+| **DevOps** | `AWS Services: EC2, RDS, IAM, S3, CodePipeline` `Docker` |
 | **Supporting Tech** | `Git (duh!)` `Spring Test` `JUnit` `Mockito` `MockMvc` |
 | **Client-Side** | `Angular` `JavaScript` `HTML` `CSS` `TypeScript` |
 | **Statistical Software** | `MATLAB (used it for Econometrics)` `Stata` `eViews` `SAS` |
