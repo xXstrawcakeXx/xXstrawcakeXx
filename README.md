@@ -15,7 +15,7 @@ Went from being an Economics MA student to software engineer and I couldn't be h
 
 ## 🌱 I’m currently learning
 
-  Spring Security
+  Spring Microservices
   
 ## ⚡ Technologies/languages used
 
